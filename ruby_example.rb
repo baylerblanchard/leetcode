@@ -1,0 +1,1 @@
+# this is a folder and file for leet code work in the ruby launguage
